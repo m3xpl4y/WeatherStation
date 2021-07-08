@@ -1,5 +1,3 @@
-using System;
-
 namespace WeatherStation
 {
     public interface Subject
